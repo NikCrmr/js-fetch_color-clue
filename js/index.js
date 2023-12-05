@@ -1,5 +1,4 @@
 import "./game.js";
-import { fetchNewColor } from "./fetch.js";
 
 console.clear();
 
